@@ -1,0 +1,11 @@
+../Core/Src/main.c:55:6:myprintf	16	static
+../Core/Src/main.c:73:5:main	32	static
+../Core/Src/main.c:126:6:SystemClock_Config	88	static
+../Core/Src/main.c:171:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:190:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:224:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:251:6:BME680_Read	8	static
+../Core/Src/main.c:299:6:user_delay_ms	16	static
+../Core/Src/main.c:310:8:user_i2c_read	32	static
+../Core/Src/main.c:335:8:user_i2c_write	32	static
+../Core/Src/main.c:363:6:Error_Handler	4	static,ignoring_inline_asm

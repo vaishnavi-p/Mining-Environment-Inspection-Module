@@ -1,0 +1,6 @@
+../Core/Src/statemachine.c:125:6:Hyst	32	static
+../Core/Src/statemachine.c:142:6:Temperature	16	static
+../Core/Src/statemachine.c:175:6:Pressure	16	static
+../Core/Src/statemachine.c:208:6:Humidity	16	static
+../Core/Src/statemachine.c:244:6:Gas	16	static
+../Core/Src/statemachine.c:278:6:sensor_statemachine	24	static
